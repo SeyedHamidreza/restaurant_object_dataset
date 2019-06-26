@@ -1,4 +1,4 @@
-# Restaurant 3D Object Dataset
+# Restaurant RGB-D Object Dataset
 ###### [Hamidreza Kasaei](www.ai.rug.nl/hkasaei)
 ##
 
