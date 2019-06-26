@@ -12,15 +12,15 @@ Please adequately refer to the papers any time this dataset is being used.
 If you do publish a paper where Restaurant Object Dataset helped your research, we encourage you to cite the following paper in your publications.
 
 	@article{kasaei2015interactive,
-    title={Interactive open-ended learning for 3d object recognition: An approach and experiments},
-    author={Kasaei, S Hamidreza and Oliveira, Miguel and Lim, Gi Hyun and Seabra Lopes, Lu{\'\i}s  and Tom{\'e}, Ana Maria},
-    journal={Journal of Intelligent \& Robotic Systems},
-    volume={80},
-    number={3-4},
-    pages={537--553},
-    year={2015},
-    publisher={Springer}
-  }
+	    title={Interactive open-ended learning for 3d object recognition: An approach and experiments},
+	    author={Kasaei, S Hamidreza and Oliveira, Miguel and Lim, Gi Hyun and Seabra Lopes, Lu{\'\i}s  and Tom{\'e}, Ana Maria},
+	    journal={Journal of Intelligent \& Robotic Systems},
+	    volume={80},
+	    number={3-4},
+	    pages={537--553},
+	    year={2015},
+	    publisher={Springer}
+	  }
 
 
 ## LICENSE 
