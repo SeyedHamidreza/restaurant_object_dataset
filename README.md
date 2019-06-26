@@ -1,5 +1,5 @@
 # Restaurant RGB-D Object Dataset
-###### [Hamidreza Kasaei](www.ai.rug.nl/hkasaei)
+###### [Hamidreza Kasaei](http://www.ai.rug.nl/hkasaei)
 ##
 
 The Restaurant Object Dataset (RGB-D) contains 306 views of one instance of each category (Bottle, Bowl, Flask, Fork, Knife, Mug, Plate, Spoon, Teapot, and Vase), and 31 views of Unknown objects views (e.g. object views that belong to the furniture). These objects were extracted from 100 views of table-top scenes. All object views were hand annotated with the respective category labels.
@@ -31,5 +31,5 @@ This dataset is released under the BSD License.
 1. Please use the following email addresses if you have questions or want to contribute to this project:
 	- :email: <hamidreza.kasaei@rug.nl> 
 	- :email: <kasaei.hamidreza@gmail.com> 
-2. Follow us on our [website](www.ai.rug.nl/hkasaei) for updates and to get information about other works:
-	- :satellite: www.ai.rug.nl/hkasaei
+2. Follow us on our [website](http://www.ai.rug.nl/hkasaei) for updates and to get information about other works:
+	- :satellite: http://www.ai.rug.nl/hkasaei
